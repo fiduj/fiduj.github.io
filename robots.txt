@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fiduj.github.io/GOK/sitemap.GOK.gz
